@@ -1,5 +1,6 @@
 # Helpify - Automated Complaint Management System
 
+![Helpify Project Banner](https://i.imgur.com/your-banner-image-url.png)
 A full-stack MERN stack web application designed to streamline the complaint management process in a student hostel environment. Helpify provides a transparent, real-time platform for students to submit issues, for staff to manage assigned tasks, and for administrators to oversee the entire resolution workflow.
 
 ## ✨ Core Features
